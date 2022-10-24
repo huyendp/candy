@@ -13,7 +13,7 @@ https://sglive.akamaized.net/bpk-tv/prod_kplus_sport2hd/default/index.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://widevine.dl.dropboxusercontent.com/s/vh6hahqdvvgjdfh/kplus-kcinehd.key
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"hszI8w2gkmT93Raqn2CiGg","kid":"hA1LqZFlRKm79PYjcbfhFg"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="Kcinehd" group-title="🅺+" tvg-logo="https://i.ibb.co/NjYd1XX/Kplus-Cine-HD.webp", K+CINE HD
 https://sglive.akamaized.net/bpk-tv/prod_kplus_cinehd/default/i.mpd
 
