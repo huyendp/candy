@@ -11,7 +11,7 @@ https://sglive.akamaized.net/bpk-tv/prod_kplus_cinehd/default/index.mpd
 #EXTINF:-1 group-title="Kplus - Nguồn Kplus" tvg-id="kcinehd", K+Cine
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://widevine.dl.dropboxusercontent.com/s/vh6hahqdvvgjdfh/kplus-kcinehd.key
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=hszI8w2gkmT93Raqn2CiGg&key=hA1LqZFlRKm79PYjcbfhFg
 https://sglive.akamaized.net/bpk-tv/prod_kplus_cinehd/default/i.mpd
 
 #EXTINF:-1 tvg-id="Klifehd" group-title="🅺+" tvg-logo="https://i.imgur.com/PPpEIBP.png", K+LIFE HD
